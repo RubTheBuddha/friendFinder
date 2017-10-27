@@ -1,0 +1,57 @@
+.jumbotron {
+  background-color: white;
+  margin-top: 4.2em;
+}
+
+.jumbotron h1 {
+  font-size: 4.5rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+.jumbotron h2 {
+  font-weight: 400;
+  margin-bottom: .8rem;
+  text-align: center;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #e95420;
+  border-color: #2e6da4;
+  padding: .5rem 1.6rem;
+  text-align: center;
+}
+
+.btn-primary:hover {
+  background-color: #2e6da4;
+}
+
+.q-container {
+  background-color: white;
+  border-radius: 15px;
+  padding: 32px;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+h4 {
+  font-weight: normal;
+  font-size: 1.2rem;
+}
+
+a {
+  color: #337ab7;
+  text-decoration: none;
+}
+
+button span {
+  margin-right: .3rem;
+}
+
+body {
+  background-image: url("assets/images/weather.png");
+  
+}
